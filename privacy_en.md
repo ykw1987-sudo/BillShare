@@ -1,15 +1,15 @@
-# Privacy Policy for BillShare
+# Privacy Policy for TripSettle
 
 **Effective Date:** August 24, 2026  
 **Last Updated:** August 24, 2026  
 
-Welcome to **BillShare**. We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, store, and safeguard your information when you use our mobile application (the "App").
+Welcome to **TripSettle**. We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, store, and safeguard your information when you use our mobile application (the "App").
 
 ---
 
 ### 1. Information We Collect
 
-To provide a smooth expense-splitting experience, BillShare collects minimal data necessary for core application functionality:
+To provide a smooth expense-splitting experience, TripSettle collects minimal data necessary for core application functionality:
 
 - **User-Provided Information:** Account details (such as display name and email address) and transaction details (such as group names, bill amounts, split preferences, and payment status).
 - **Camera & Photos (Optional):** If you upload receipt images, the App requests permission to access your device’s camera or photo library. Receipt images are used solely to store and display itemized details within your group.
@@ -45,13 +45,13 @@ We **do not** sell, rent, or trade your personal data to third parties. Informat
 
 ### 5. Tracking and Advertising
 
-BillShare does **not** engage in cross-app user tracking, target advertising, or share data with third-party ad networks.
+TripSettle does **not** engage in cross-app user tracking, target advertising, or share data with third-party ad networks.
 
 ---
 
 ### 6. Children's Privacy
 
-BillShare is not directed at children under the age of 13 (or 16 in certain jurisdictions). We do not knowingly collect personal data from children.
+TripSettle is not directed at children under the age of 13 (or 16 in certain jurisdictions). We do not knowingly collect personal data from children.
 
 ---
 
@@ -64,5 +64,6 @@ We may update this Privacy Policy periodically. Any updates will be posted in th
 ### 8. Contact Us
 
 If you have any questions or requests regarding your data privacy, please contact us:
-- **GitHub:** [https://github.com/ykw1987-sudo/BillShare](https://github.com/ykw1987-sudo/BillShare)
-- **Support Email:** support@billshare.app
+- **GitHub:** [https://github.com/ykw1987-sudo/TripSettle](https://github.com/ykw1987-sudo/TripSettle)
+- **Support Email:** support@TripSettle.app
+<img width="415" height="684" alt="image" src="https://github.com/user-attachments/assets/01347e26-efa0-4c8d-a401-1762c15b10d7" />
